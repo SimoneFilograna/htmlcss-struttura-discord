@@ -16,7 +16,6 @@ nav{
 
 .box{
     width: 25%;
-    border: 1px dashed black;
     height: 100%;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -123,6 +122,10 @@ footer{
     margin-bottom: 20px;
     padding-top: 10px;
     padding-bottom: 20px;
+    
+}
+
+.line{
     border-bottom: 1px solid rgb(255, 255, 255);
 }
 
@@ -145,6 +148,7 @@ footer{
     margin: auto;
     justify-content: space-between;
     align-items: center;
+    margin-top: 20px;
 }
 
 .logo, .final-button{
